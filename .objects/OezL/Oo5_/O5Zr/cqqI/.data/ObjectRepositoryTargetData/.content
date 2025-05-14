@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bx7gTWElYkKVH1IXKhwZ7A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="git-scm.com/downloads/win" DesignTimeRectangle="752, 367, 196, 16" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Git for Windows/x64 Setup' parentid='main' tag='A' /&gt;" Guid="43e6bf20-1847-4e2e-b5fa-0df4d0bf5272" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Git - Downloading Package' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="9c0ab4a8b695d1da29720cac201cc80f.png" xmlns="">0KjuK4m4Qu0-QCACvGHNemQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
